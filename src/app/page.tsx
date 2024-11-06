@@ -9,7 +9,7 @@ const Home = () => {
             <main className="px-6 py-8">
                 <div className="flex flex-col items-center">
                     <Image 
-                        src="/images/hero-band.jpg" 
+                        src="/hero-band.jpg" 
                         alt="82 INFINITY Band" 
                         width={1200} 
                         height={800} 

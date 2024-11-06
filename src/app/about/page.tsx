@@ -8,7 +8,7 @@ const About = () => {
             <main className="px-6 py-8">
                 <div className="flex flex-col items-center">
                     <Image 
-                        src="/images/band-history.jpg" 
+                        src="/band-history.jpg" 
                         alt="Band history" 
                         width={1200} 
                         height={800} 
